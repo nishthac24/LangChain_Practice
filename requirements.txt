@@ -1,0 +1,10 @@
+langchain
+ipykernel
+langchain-google-genai
+python-dotenv
+langchain-community
+pypdf
+bs4
+arxivc
+pymupdf
+langchain-text-splitters
